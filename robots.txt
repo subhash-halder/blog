@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https=/subhash.link/sitemap.xml

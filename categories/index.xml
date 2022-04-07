@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Categories on Subhash halder</title><link>http://example.org/categories/</link><description>Recent content in Categories on Subhash halder</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Subhash Halder</title>
+    <link>https=//subhash.link/categories/</link>
+    <description>Recent content in Categories on Subhash Halder</description>
+    <image>
+      <url>/images/subhash_halder_350_350.jpg</url>
+      <link>/images/subhash_halder_350_350.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https=//subhash.link/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
