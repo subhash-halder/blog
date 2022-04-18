@@ -5,6 +5,12 @@ author: ["Subhash Halder"]
 tags: ["ssh reverse tunneling", "http tunneling", "socket tunneling"]
 description: This article show how you can expose some service running in your local machine to outside world without static IP via any public server. 
 draft: false
+cover:
+    image: "/images/ssh-reverse-tunneling.jpg"
+    alt: "SSH Reverse tunneling"
+    caption: "SSH Reverse tunneling"
+    relative: false 
+    hidden: false 
 ---
 
 ## Why you want to do that?

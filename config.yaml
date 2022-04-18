@@ -86,7 +86,7 @@ params:
     hiddenInList: true
     hiddenInSingle: true
   editPost:
-    URL: 'https://github.com/amsubhash/content'
+    URL: 'https://github.com/amsubhash/blog/blob/main/content'
     Text: Suggest Changes
     appendFilePath: true
   fuseOpts:
