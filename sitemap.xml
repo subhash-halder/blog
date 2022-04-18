@@ -2,10 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://subhash.link/categories/</loc>
+    <loc>https://subhash.link/post/host-your-site-without-static-ip-via-server/</loc>
+    <lastmod>2022-04-18T10:15:53+05:30</lastmod>
+  </url><url>
+    <loc>https://subhash.link/tags/http-tunneling/</loc>
+    <lastmod>2022-04-18T10:15:53+05:30</lastmod>
+  </url><url>
+    <loc>https://subhash.link/post/</loc>
+    <lastmod>2022-04-18T10:15:53+05:30</lastmod>
+  </url><url>
+    <loc>https://subhash.link/tags/socket-tunneling/</loc>
+    <lastmod>2022-04-18T10:15:53+05:30</lastmod>
+  </url><url>
+    <loc>https://subhash.link/tags/ssh-reverse-tunneling/</loc>
+    <lastmod>2022-04-18T10:15:53+05:30</lastmod>
   </url><url>
     <loc>https://subhash.link/</loc>
+    <lastmod>2022-04-18T10:15:53+05:30</lastmod>
   </url><url>
     <loc>https://subhash.link/tags/</loc>
+    <lastmod>2022-04-18T10:15:53+05:30</lastmod>
+  </url><url>
+    <loc>https://subhash.link/categories/</loc>
+  </url><url>
+    <loc>https://subhash.link/search/</loc>
   </url>
 </urlset>
