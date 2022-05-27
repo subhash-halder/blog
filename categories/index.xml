@@ -9,6 +9,25 @@
       <link>https://subhash.link/images/subhash_halder_350_350.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://subhash.link/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Apr 2022 10:15:53 +0530</lastBuildDate><atom:link href="https://subhash.link/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ssh</title>
+      <link>https://subhash.link/categories/ssh/</link>
+      <pubDate>Mon, 18 Apr 2022 10:15:53 +0530</pubDate>
+      
+      <guid>https://subhash.link/categories/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://subhash.link/categories/tutorial/</link>
+      <pubDate>Mon, 18 Apr 2022 10:15:53 +0530</pubDate>
+      
+      <guid>https://subhash.link/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
