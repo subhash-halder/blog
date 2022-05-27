@@ -2,6 +2,7 @@
 title: "Host Your Site Without Static IP via Server"
 date: 2022-04-18T10:15:53+05:30
 author: ["Subhash Halder"]
+categories: ["tutorial", "ssh"]
 tags: ["ssh reverse tunneling", "http tunneling", "socket tunneling"]
 description: This article show how you can expose some service running in your local machine to outside world without static IP via any public server. 
 draft: false
