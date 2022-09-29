@@ -32,7 +32,7 @@ params:
     - Ready for hire
   author: Subhash Halder
   images:
-    - /images/subhash_halder_350_350.jpg
+    - /images/logo-192x192.jpg
   DateFormat: 'January 2, 2006'
   defaultTheme: auto
   disableThemeToggle: false
@@ -49,14 +49,14 @@ params:
   showtoc: false
   tocopen: false
   assets:
-    favicon: /images/subhash_halder_350_350.jpg
-    favicon16x16: /images/subhash_halder_16_16.jpg
-    favicon32x32: /images/subhash_halder_35_35.jpg
-    apple_touch_icon: /images/subhash_halder_350_350.jpg
-    safari_pinned_tab: /images/subhash_halder_350_350.jpg
+    favicon: /images/favicon.ico
+    favicon16x16: /images/favicon-16x16.png
+    favicon32x32: /images/favicon-32x32.png
+    apple_touch_icon: /images/apple-touch-icon.png
+    safari_pinned_tab: /images/favicon-32x32.png
   label:
     text: Subhash Halder
-    icon: /images/subhash_halder_120_120.jpg
+    icon: /images/favicon-32x32.png
     iconHeight: 35
   profileMode:
     enabled: false
@@ -64,7 +64,7 @@ params:
     subtitle: >-
       Hello World!! My name is Subhash Halder and I am a Full-Stack Software
       Engineer
-    imageUrl: /images/subhash_halder_120_120.jpg
+    imageUrl: /images/logo-192x192.png
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
