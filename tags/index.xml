@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Subhash Halder</title>
-    <link>https://subhash.link/tags/</link>
+    <link>https://subhashhalder.com/tags/</link>
     <description>Recent content in Tags on Subhash Halder</description>
     <image>
-      <url>https://subhash.link/images/subhash_halder_350_350.jpg</url>
-      <link>https://subhash.link/images/subhash_halder_350_350.jpg</link>
+      <url>https://subhashhalder.com/images/subhash_halder_350_350.jpg</url>
+      <link>https://subhashhalder.com/images/subhash_halder_350_350.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Apr 2022 10:15:53 +0530</lastBuildDate><atom:link href="https://subhash.link/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 10:15:53 +0530</lastBuildDate><atom:link href="https://subhashhalder.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>http tunneling</title>
-      <link>https://subhash.link/tags/http-tunneling/</link>
+      <link>https://subhashhalder.com/tags/http-tunneling/</link>
       <pubDate>Mon, 18 Apr 2022 10:15:53 +0530</pubDate>
       
-      <guid>https://subhash.link/tags/http-tunneling/</guid>
+      <guid>https://subhashhalder.com/tags/http-tunneling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>socket tunneling</title>
-      <link>https://subhash.link/tags/socket-tunneling/</link>
+      <link>https://subhashhalder.com/tags/socket-tunneling/</link>
       <pubDate>Mon, 18 Apr 2022 10:15:53 +0530</pubDate>
       
-      <guid>https://subhash.link/tags/socket-tunneling/</guid>
+      <guid>https://subhashhalder.com/tags/socket-tunneling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssh reverse tunneling</title>
-      <link>https://subhash.link/tags/ssh-reverse-tunneling/</link>
+      <link>https://subhashhalder.com/tags/ssh-reverse-tunneling/</link>
       <pubDate>Mon, 18 Apr 2022 10:15:53 +0530</pubDate>
       
-      <guid>https://subhash.link/tags/ssh-reverse-tunneling/</guid>
+      <guid>https://subhashhalder.com/tags/ssh-reverse-tunneling/</guid>
       <description></description>
     </item>
     

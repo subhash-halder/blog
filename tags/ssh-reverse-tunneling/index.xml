@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ssh reverse tunneling on Subhash Halder</title>
-    <link>https://subhash.link/tags/ssh-reverse-tunneling/</link>
+    <link>https://subhashhalder.com/tags/ssh-reverse-tunneling/</link>
     <description>Recent content in ssh reverse tunneling on Subhash Halder</description>
     <image>
-      <url>https://subhash.link/images/subhash_halder_350_350.jpg</url>
-      <link>https://subhash.link/images/subhash_halder_350_350.jpg</link>
+      <url>https://subhashhalder.com/images/subhash_halder_350_350.jpg</url>
+      <link>https://subhashhalder.com/images/subhash_halder_350_350.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Apr 2022 10:15:53 +0530</lastBuildDate><atom:link href="https://subhash.link/tags/ssh-reverse-tunneling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 10:15:53 +0530</lastBuildDate><atom:link href="https://subhashhalder.com/tags/ssh-reverse-tunneling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Host Your Site Without Static IP via Server</title>
-      <link>https://subhash.link/post/host-your-site-without-static-ip-via-server/</link>
+      <link>https://subhashhalder.com/post/host-your-site-without-static-ip-via-server/</link>
       <pubDate>Mon, 18 Apr 2022 10:15:53 +0530</pubDate>
       
-      <guid>https://subhash.link/post/host-your-site-without-static-ip-via-server/</guid>
+      <guid>https://subhashhalder.com/post/host-your-site-without-static-ip-via-server/</guid>
       <description>This article show how you can expose some service running in your local machine to outside world without static IP via any public server.</description>
     </item>
     
