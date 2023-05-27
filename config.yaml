@@ -16,6 +16,7 @@ outputs:
 minify:
   disableXML: true
   minifyOutput: true
+disqusShortname: amsubhash
 params:
   env: production
   title: Subhash Halder | Full-Stack Software Engineer
